@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KodExplorer-4.49.02:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KodExplorer_4_49_02_jar</output-path>
+    <root id="archive" name="KodExplorer-4.49.02.jar" />
+  </artifact>
+</component>
